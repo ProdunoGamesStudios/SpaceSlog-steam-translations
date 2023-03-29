@@ -16,3 +16,30 @@ All the translations for Steam.
 You can download github desktop below which will help.
 
 https://desktop.github.com
+
+
+If you can help, we still need translations for (These are what Steam support):
+
+Italian
+Bulgarian
+Czech
+Danish
+Dutch
+Finnish
+Greek
+Hungarian
+Japanese
+Korean
+Norwegian
+Portugese - Brazil
+Portugese - Portugal
+Russian
+Simplified Chinese
+Swedish
+Thai
+Turkish
+Vietnemese
+
+If you decide to work on one of the above, please make sure there is not already a branch open or someone else working on it.
+
+Thanks!
