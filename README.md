@@ -34,7 +34,8 @@ If you can help, we still need translations for (These are what Steam support):
 - Portugese - Brazil
 - Portugese - Portugal
 - Russian
-- Simplified Chinese
+- Simplified Chinese - Completed
+- Traditional Chinese
 - Swedish
 - Thai
 - Turkish
