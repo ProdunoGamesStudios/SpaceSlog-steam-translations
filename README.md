@@ -26,7 +26,7 @@ If you can help, we still need translations for (These are what Steam support):
 - Danish
 - Dutch
 - Finnish
-- Greek
+- Greek - Completed
 - Hungarian
 - Japanese
 - Korean
