@@ -38,7 +38,6 @@ If you can help, we still need translations for (These are what Steam support):
 - Traditional Chinese - Completed
 - Swedish
 - Thai
-- Turkish
 - Vietnemese
 
 If you decide to work on one of the above, please make sure there is not already a branch open or someone else working on it.
