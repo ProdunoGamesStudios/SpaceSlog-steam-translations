@@ -28,16 +28,23 @@ If you can help, we still need translations for (These are what Steam support):
 - Finnish
 - Greek - Completed
 - Hungarian
-- Japanese
+- Indonesian
+- Japanese - Completed
 - Korean
 - Norwegian
+- Polish - Completed
 - Portugese - Brazil
 - Portugese - Portugal
+- Romanian - Completed
 - Russian
 - Simplified Chinese - Completed
-- Traditional Chinese - Completed
+- Spanish Latin American - Completed
+- Spanish Spain - Completed
 - Swedish
 - Thai
+- Traditional Chinese - Completed
+- Turkish - Completed
+- Ukrainian - Completed
 - Vietnemese
 
 If you decide to work on one of the above, please make sure there is not already a branch open or someone else working on it.
