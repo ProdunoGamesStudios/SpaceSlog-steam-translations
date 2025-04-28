@@ -1,9 +1,9 @@
 Description (Do not translate)
 
 
-Slog through space in [b]SpaceSlog[/b]. A difficult sci-fi spaceship sim with an emphasis on ship building, crew interaction and exploration. Inspired by games such as Rimworld, Starship Theory, Dwarf Fortress and X-COM and other media such as Firefly, Battlestar Galactica, Stargate Universe and The Expanse.
+Slog through space in [b]SpaceSlog[/b]. A challenging sci-fi spaceship simulator that focuses on shipbuilding, crew interaction, and exploration. Inspired by games such as [i]Rimworld[/i], [i]Starship Theory[/i], [i]Dwarf Fortress[/i] and [i]X-COM[/i], as well as iconic media such as [i]Firefly[/i], [i]Battlestar [i]Galactica[/i], [i]Stargate Universe[/i] and [i]The Expanse[/i].
 
-Your capital ship has been attacked by an unknown entity. Fortunately several survivors have managed to escape in a small ship. Now alone, hungry and lost in space, you must explore the cosmos and guide them to safety.
+Your colony ship has been destroyed. Fortunately, a few survivors managed to escape on a small ship. Now alone, hungry, and lost in space, you must explore the cosmos and guide them to safety.
 
 
 [b]Current Features[/b]
@@ -12,49 +12,86 @@ Your capital ship has been attacked by an unknown entity. Fortunately several su
 [*]Build your ship any way you choose.
 [*]A newly generated galaxy to explore every time you play.
 [*]Meet other factions, friend or foe.
-[*]Manage your crew's moods and needs.
+[*]Manage your crews moods and needs.
 [*]Trade with passing ships and factions.
 [*]Electrical power simulation. Place down cables, generators and batteries.
+[*]Atmospheric simulation. Place down gas generators, gas scrubbers, air tanks, ducting and air vents to carry gas around your ship.
 [*]Develop your own story every time you play.
+[*]Combat and defend against alien creatures.
+[*]Deep health and anatomy modelling.
 [*]Extensive Mod support.
 [*]Plus more…
 [/list]
 
-[b]Build your ship any way you please[/b]. Whether you want to build a small but nimble ship with a small crew, or a large battleship with lots of crew, the choice is yours. Just ensure you have enough supplies to manage your crew and keep your ship functioning.
+
+[b]Roadmap[/b]
+[i]This is a rough list of planned features though nothing is guaranteed.[/i]
+
+[list]
+[*]Ship to ship combat including ship boarding.
+[*]An infinite galaxy map to explore.
+[*]Visit planets with different atmospheres, factions and other anomalies.
+[*]Explore derelict ships and stations.
+[*]Research.
+[*]A living universe where faction interactions or player consequences matter.
+[*]Temperature simulation. Find ways to keep your ship cool.
+[*]Various types of crafting.
+[*]Animals - pets and husbandry.
+[*]Plus many other improvements across the board.
+[/list]
+
+
+[h2][b]Build your ship any way you please[/b]. [/h2]
+
+Whether you want to build a small but nimble ship with a small crew, or a large battleship with lots of crew, the choice is yours. Just ensure you have enough supplies to manage your crew and keep your ship functioning. 
 Careful consideration must be used when placing doors and your power systems in case of breaches or other hazards.
 
-[b]Explore a procedurally generated galaxy[/b]. Each time you play, the game's events system will generate a different galaxy for you to explore. Whichever difficulty you choose will influence how this galaxy or events are generated.
 
-[b]Exploration is key to survival[/b]. Stay in one place for too long or get stranded and your crew will surely die. You must keep moving and find other ships or factions to trade with in order to survive.
+[h2][b]Explore a procedurally generated galaxy[/b]. [/h2] 
+Each time you play, the game's events system will generate a different galaxy for you to explore. Whichever difficulty you choose will influence how this galaxy or events are generated.
 
-[b]Crew needs and moods[/b]. The needs of your crew must be met in order to keep your ship fully functioning. An angry crew may rebel, decide not to work or give up completely. Ensure you have enough food and water to feed your crew. You must also choose your captain wisely.
 
-[b]Extensive mod support[/b]. All the game's data is stored in JSON files. This means it is extremely easy to change anything currently in the game and even add new ones. In the future we plan to expand on this even further.
+[h2][b]Exploration is key to survival[/b]. [/h2] 
+Stay in one place for too long or get stranded and your crew will surely die. You must keep moving and find other ships or factions to trade with in order to survive.
 
-[b]Mod development pedigree[/b]. The author of SpaceSlog has spent the last 10 years painstakingly developing a large and popular modification for Mount&Blade Warband called A World of Ice and Fire. This is the reason for wanting extensive mod support and should hopefully give peace of mind for anyone wanting to purchase SpaceSlog, knowing the author is dedicated and willing to finish a project.
+
+[h2][b]Crew needs and moods[/b]. [/h2]
+The needs of your crew must be met in order to keep your ship fully functioning. An angry crew may rebel, decide not to work or give up completely. Ensure you have enough food and water to feed your crew. You must also choose your captain wisely.
+
+
+[h2][b]Complex combat and medical simulations[/b]. [/h2] 
+Fight other spaceships with ship to ship combat. Gear up and board your enemies or descend to a planet and attack them on the ground. Ensure you have a medic bay and spare limbs to patch up your fallen heroes.
+
+
+[h2][b]Extensive mod support[/b]. [/h2]
+All the game's data is stored in JSON files. This means it is extremely easy to change anything currently in the game and even add new ones. In the future we plan to expand on this even further.
+
+
+[h2][b]Mod development pedigree[/b]. [/h2]
+The author of SpaceSlog has spent 10 years painstakingly developing a large and popular free modification for Mount&Blade Warband called A World of Ice and Fire. This is the reason for wanting extensive mod support and should hopefully give peace of mind for anyone wanting to purchase SpaceSlog, knowing the author is dedicated and willing to finish a project.
 
 
 Short description (Do not translate) (Needs to be between 200-300 characters)
 
-Build your ship, manage your crew and explore the cosmos whilst trying your best to keep your crew alive and your ship fully functioning. This game utilises an events driven AI and simulated ship systems to ensure gameplay is kept challenging and every game you play has a different story to tell.
+Build your spaceship, manage your crew and explore the cosmos whilst trying to keep your crew alive and your ship fully functioning. This game utilises an events driven director and simulated ship systems to ensure gameplay is kept challenging and every game you play has a different story to tell.
 
 
 Why early access? (Do not translate)
 
-SpaceSlog is a complex and ambitious project being developed by one person, it has already been in development for several years and now requires the support and feedback from the community. We do not want to develop the game in a vacuum but would rather mould the game into something our fans really want to play and feel early access is the best way to achieve this.
+SpaceSlog is a complex and ambitious project being developed by one person. It has already been in development for several years and now requires the support and feedback from the community. We aim to avoid creating the game in isolation and instead want to shape it into an experience our fans really want to play. We believe that Early Access is the best way to achieve this goal.
 
 
 How long? (Do not translate)
 
-It's hard to specify a time but we plan to be in early access until roughly February 2026. We have a long list of features and ideas for the game, all of which take time to develop if we want to ensure a quality product.
+It's difficult to specify a precise timeline, but we anticipate to be in Early Access until at least February 2027. We have a long list of features and ideas for the game, all of which require time to develop in order to deliver a high quality product.
 
-We strongly suggest however to only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
+However, we strongly recommend to only purchase the game based solely on its current features rather than on planned future updates, to avoid any potential disappointment.
 
 
 
 Changed when finished? (Do not translate)
 
-The full version will have many more simulated systems and a much richer gameplay experience. The course of development does however change depending on feedback from our community. Below are a few things we plan to add to the game but are not guaranteed.
+The full version of the game will feature many more simulated systems and a much richer gameplay experience. However, the course of development may evolve based on feedback from our community. Below are a few things we plan to add to the game but are not guaranteed.
 
 [list]
 [*]Random encounters with planets, space monsters and other alien life forms.
@@ -70,21 +107,24 @@ The full version will have many more simulated systems and a much richer gamepla
 [*]Different alien races to discover.
 [/list]
 
-Again, these features are not guaranteed but what we would like to add in an ideal situation. Please only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
+Again, these features are not guaranteed but represent what we would ideally like to implement. Please only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
 
 
 
 Playable? (Do not translate)
 
-The game is currently fully playable and we do our best to ensure there are as few bugs as possible. The game does however only represent a small fraction of what we plan to achieve, which means in its current state it may be lacking in gameplay features and content.
+The game is fully playable, and we do our best to ensure there are as few bugs as possible. However, it currently represents only a small portion of what we aim to accomplish. As a result, it may lack certain gameplay features and content in its present state. For a detailed overview of the current features, please refer to the 'About this Game' section.
 
 
 Price change? (Do not translate)
 
-The final price is still being decided but we plan to increase the price upon exiting early access.
+The final price is yet to be determined, but we intend to raise it once the game exits Early Access.
 
 
 Final words. (Do not translate)
 
-We hold various polls on our discord ([url]https://discord.gg/cBNNfht[/url]) channel and encourage suggestions and feedback from our community there and also on our forums ([url]https://produnogames.com/forums[/url]), all of which we take very seriously and into careful consideration. We understand we cannot make the best game possible just by ourselves, we require vital input and feedback from all of our players to help refine and direct our game to greatness.
-We will also be showing development videos over on our YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) channel.
+We regularly hold polls on our Discord ([url]https://discord.gg/cBNNfht[/url]) channel and actively encourage suggestions and feedback from our community there, as well as on our forums ([url]https://produnogames.com/forums[/url]). We take all feedback very seriously and give it careful consideration. 
+
+We understand that we cannot make the best game possible on our own. The vital input and feedback from our players are essential in helping us refine and guide the game toward the best it can be.
+
+Additionally, we will be sharing development videos over on our YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) channel.
