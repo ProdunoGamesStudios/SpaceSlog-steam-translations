@@ -6,7 +6,7 @@ Description (Do not translate)
 Sua nave colonizadora foi destruída. Felizmente, alguns sobreviventes conseguiram escapar numa pequena nave. Agora sozinho, faminto e perdido no espaço, você deve explorar o cosmos e guiá-los para um local seguro.
 
 
-[b]Recursos atuais[/b]
+[b]Características Atuais[/b]
 
 [list]
 [*]Construa sua nave da maneira que desejar. 
@@ -17,18 +17,18 @@ Sua nave colonizadora foi destruída. Felizmente, alguns sobreviventes conseguir
 [*]Simulação de energia elétrica. Coloque cabos, geradores e baterias. 
 [*]Simulação atmosférica. Coloque geradores de gás, purificadores de gás, tanques de ar, dutos e saídas de ar para transportar gás pela nave. 
 [*]Desenvolva sua própria história sempre que jogar. 
-[*]Combate e defenda-se contra criaturas alienígenas. 
+[*]Combata e defenda-se contra criaturas alienígenas. 
 [*]Modelagem profunda de saúde e anatomia. 
 [*]Extenso suporte a mods. 
 [*]E mais…
 [/list]
 
 
-[b]Cronograma de Desenvolvimento[/b]
+[b]Roteiro de Desenvolvimento[/b]
 [i]Esta é uma lista aproximada de recursos planejados, embora nada seja garantido.[/i]
 
 [list]
-[*]Combate nave a nave, incluindo embarque na nave. 
+[*]Combate nave a nave, incluindo abordagem na nave. 
 [*]Um mapa infinito de galáxias para explorar.
 [*]Visite planetas com diferentes atmosferas, facções e outras anomalias. 
 [*]Explore naves e estações abandonadas. 
@@ -52,22 +52,22 @@ Cada vez que você joga, o sistema de eventos do jogo irá gerar uma galáxia di
 
 
 [h2][b]A exploração é a chave para a sobrevivência[/b]. [/h2] 
-Fique no mesmo lugar por muito tempo ou fique preso e sua tripulação certamente morrerá. Você deve continuar se movendo e encontrar outras naves ou facções para negociar para sobreviver.
+Permanecer no mesmo lugar por muito tempo ou ficar à deriva sua tripulação certamente morrerá. Você deve continuar se movendo e encontrar outras naves ou facções para negociar para sobreviver.
 
 
 [h2][b]Necessidades e humor da tripulação[/b]. [/h2]
-As necessidades da sua tripulação devem ser atendidas para manter o sua nave em pleno funcionamento. Uma tripulação enfurecida pode rebelar-se, decidir não trabalhar ou desistir completamente. Certifique-se de ter comida e água suficientes para alimentar sua tripulação. Você também deve escolher seu capitão com sabedoria.
+As necessidades da sua tripulação devem ser atendidas para manter a sua nave em pleno funcionamento. Uma tripulação enfurecida pode rebelar-se, decidir não trabalhar ou desistir completamente. Certifique-se de ter comida e água suficientes para alimentar sua tripulação. Você também deve escolher seu capitão com sabedoria.
 
 
 [h2][b]Combate complexo e simulações médicas[/b]. [/h2] 
-Lute contra outras naves espaciais com combate nave a nave. Prepare-se e aborde seus inimigos ou desça a um planeta e ataque-os no chão. Certifique-se de ter uma enfermaria e membros extras para consertar seus heróis caídos.
+Lute contra outras naves espaciais com combate nave a nave. Equipe-se e aborde seus inimigos ou desça a um planeta e ataque-os em solo. Certifique-se de ter uma enfermaria e membros sobressalentes para curar seus heróis caídos.
 
 
 [h2][b]Amplo suporte a mods[/b]. [/h2]
 Todos os dados do jogo são armazenados em arquivos JSON. Isso significa que é extremamente fácil alterar qualquer coisa no jogo e até mesmo adicionar novos. No futuro, planejamos expandir isso ainda mais.
 
 
-[h2][b]Histórico no desenvolvimento de mods[/b]. [/h2]
+[h2][b]Experiência no desenvolvimento de mods[/b]. [/h2]
 O autor do SpaceSlog passou 10 anos desenvolvendo meticulosamente uma grande e popular modificação gratuita para Mount&Blade Warband chamada A World of Ice and Fire. Esta é a razão para querer suporte extensivo a mod e esperamos que dê tranquilidade a quem deseja comprar o SpaceSlog, sabendo que o autor é dedicado e disposto a terminar um projeto.
 
 
@@ -93,11 +93,11 @@ Changed when finished? (Do not translate)
 A versão completa do jogo contará com muito mais sistemas simulados e uma experiência de jogo muito mais rica. No entanto, o curso do desenvolvimento pode evoluir com base no feedback da nossa comunidade. Abaixo estão algumas coisas que planejamos adicionar ao jogo, mas não são garantidas.
 
 [list]
-[*]Encontros aleatórios com planetas, monstros espaciais e outras formas de vida alienígenas. 
-[*]Mande grupos para planetas e naves abandonadas em busca de suprimentos. 
+[*]Eventos aleatórios com planetas, monstros espaciais e outras formas de vida alienígenas. 
+[*]Envie expedições para planetas e naves abandonadas em busca de suprimentos. 
 [*]Veja o crescimento e a queda dos relacionamentos entre diferentes membros da tripulação. 
 [*]Muitos tipos de criaturas que você pode domar e treinar. 
-[*]Elementos simulados de calor e atmosfera. 
+[*]Elementos de simulação de calor e atmosfera. 
 [*]Pesquise novas tecnologias e use-as para ajudar sua tripulação a sobreviver e prosperar. 
 [*]Sistemas de combate tático entre naves e a pé, incluindo brechas e equipes de desembarque. 
 [*]Sistema complexo de feridas e doenças. 
@@ -112,7 +112,7 @@ Novamente, esses recursos não são garantidos, mas representam o que gostaríam
 
 Playable? (Do not translate)
 
-O jogo é totalmente jogável e fazemos o possível para garantir que haja o mínimo de bugs possível. No entanto, atualmente representa apenas uma pequena parte do que pretendemos realizar. Como resultado, pode faltar certos recursos de jogo e conteúdo em seu estado atual. Para uma visão geral detalhada dos recursos atuais, consulte a seção 'Sobre este jogo'.
+O jogo é totalmente jogável e fazemos o possível para garantir que haja o mínimo de bugs possíveis. No entanto, atualmente representa apenas uma pequena parte do que pretendemos realizar. Como resultado, podem faltar certos recursos de jogo e conteúdo em seu estado atual. Para uma visão geral detalhada dos recursos atuais, consulte a seção 'Sobre este jogo'.
 
 
 Price change? (Do not translate)
