@@ -1,130 +1,129 @@
 Description (Do not translate)
 
 
-[b]SpaceSlog[/b] is a challenging sci-fi spaceship simulator that focuses on shipbuilding, crew interaction, and exploration. Inspired by games such as [i]Rimworld[/i], [i]Starship Theory[/i], [i]Dwarf Fortress[/i] and [i]X-COM[/i], as well as iconic media such as [i]Firefly[/i], [i]Battlestar [i]Galactica[/i], [i]Stargate Universe[/i] and [i]The Expanse[/i].
+[b]SpaceSlog[/b] é um desafiador simulador de nave espacial de ficção científica que se concentra na construção de naves, interação da tripulação e exploração. Inspirado em jogos como [i]Rimworld[/i], [i]Starship Theory[/i], [i]Dwarf Fortress[/i] e [i]X-COM[/i], bem como mídias icônicas como [i]Firefly[/i], [i]Battlestar [i]Galactica[/i], [i]Stargate Universe[/i] e [i]The Expanse[/i].
 
-Your colony ship has been destroyed. Fortunately, a few survivors managed to escape on a small ship. Now alone, hungry, and lost in space, you must explore the cosmos and guide them to safety.
+Sua nave colonizadora foi destruída. Felizmente, alguns sobreviventes conseguiram escapar numa pequena nave. Agora sozinho, faminto e perdido no espaço, você deve explorar o cosmos e guiá-los para um local seguro.
 
 
-[b]Current Features[/b]
+[b]Recursos atuais[/b]
 
 [list]
-[*]Build your ship any way you choose.
-[*]A newly generated galaxy to explore every time you play.
-[*]Meet other factions, friend or foe.
-[*]Manage your crews moods and needs.
-[*]Trade with passing ships and factions.
-[*]Electrical power simulation. Place down cables, generators and batteries.
-[*]Atmospheric simulation. Place down gas generators, gas scrubbers, air tanks, ducting and air vents to carry gas around your ship.
-[*]Develop your own story every time you play.
-[*]Combat and defend against alien creatures.
-[*]Deep health and anatomy modelling.
-[*]Extensive Mod support.
-[*]Plus more…
+[*]Construa sua nave da maneira que desejar. 
+[*]Uma galáxia recém-gerada para explorar sempre que você jogar. 
+[*]Conheça outras facções, amigas ou inimigas. 
+[*]Gerencie o humor e as necessidades da sua equipe. 
+[*]Negocie com naves e facções que passam. 
+[*]Simulação de energia elétrica. Coloque cabos, geradores e baterias. 
+[*]Simulação atmosférica. Coloque geradores de gás, purificadores de gás, tanques de ar, dutos e saídas de ar para transportar gás pela nave. 
+[*]Desenvolva sua própria história sempre que jogar. 
+[*]Combate e defenda-se contra criaturas alienígenas. 
+[*]Modelagem profunda de saúde e anatomia. 
+[*]Extenso suporte a mods. 
+[*]E mais…
 [/list]
 
 
-[b]Roadmap[/b]
-[i]This is a rough list of planned features though nothing is guaranteed.[/i]
+[b]Cronograma de Desenvolvimento[/b]
+[i]Esta é uma lista aproximada de recursos planejados, embora nada seja garantido.[/i]
 
 [list]
-[*]Ship to ship combat including ship boarding.
-[*]An infinite galaxy map to explore.
-[*]Visit planets with different atmospheres, factions and other anomalies.
-[*]Explore derelict ships and stations.
-[*]Research.
-[*]A living universe where faction interactions or player consequences matter.
-[*]Temperature simulation. Find ways to keep your ship cool.
-[*]Various types of crafting.
-[*]Animals - pets and husbandry.
-[*]Plus many other improvements across the board.
+[*]Combate nave a nave, incluindo embarque na nave. 
+[*]Um mapa infinito de galáxias para explorar.
+[*]Visite planetas com diferentes atmosferas, facções e outras anomalias. 
+[*]Explore naves e estações abandonadas. 
+[*]Pesquisar. 
+[*]Um universo vivo onde as interações entre facções ou as consequências dos jogadores são importantes. 
+[*]Simulação de temperatura. Encontre maneiras de manter sua nave fresca. 
+[*]Vários tipos de artesanato. 
+[*]Animais - animais de estimação e criação. 
+[*]Além de muitas outras melhorias em todos os aspectos.
 [/list]
 
 
-[h2][b]Build your ship any way you please[/b]. [/h2]
+[h2][b]Construa sua nave da maneira que desejar[/b]. [/h2]
 
-Whether you want to build a small but nimble ship with a small crew, or a large battleship with lots of crew, the choice is yours. Just ensure you have enough supplies to manage your crew and keep your ship functioning. 
-Careful consideration must be used when placing doors and your power systems in case of breaches or other hazards.
-
-
-[h2][b]Explore a procedurally generated galaxy[/b]. [/h2] 
-Each time you play, the game's events system will generate a different galaxy for you to explore. Whichever difficulty you choose will influence how this galaxy or events are generated.
+Se você deseja construir uma nave pequena, mas ágil, com uma tripulação pequena, ou uma grande nave de guerra com muita tripulação, a escolha é sua. Apenas certifique-se de ter suprimentos suficientes para gerenciar sua tripulação e manter sua nave funcionando. 
+Deve-se considerar cuidadosamente ao colocar portas e seus sistemas de energia em caso de violações ou outros perigos.
 
 
-[h2][b]Exploration is key to survival[/b]. [/h2] 
-Stay in one place for too long or get stranded and your crew will surely die. You must keep moving and find other ships or factions to trade with in order to survive.
+[h2][b]Explore uma galáxia gerada processualmente[/b]. [/h2] 
+Cada vez que você joga, o sistema de eventos do jogo irá gerar uma galáxia diferente para você explorar. Qualquer dificuldade que você escolher influenciará como esta galáxia ou eventos são gerados.
 
 
-[h2][b]Crew needs and moods[/b]. [/h2]
-The needs of your crew must be met in order to keep your ship fully functioning. An angry crew may rebel, decide not to work or give up completely. Ensure you have enough food and water to feed your crew. You must also choose your captain wisely.
+[h2][b]A exploração é a chave para a sobrevivência[/b]. [/h2] 
+Fique no mesmo lugar por muito tempo ou fique preso e sua tripulação certamente morrerá. Você deve continuar se movendo e encontrar outras naves ou facções para negociar para sobreviver.
 
 
-[h2][b]Complex combat and medical simulations[/b]. [/h2] 
-Fight other spaceships with ship to ship combat. Gear up and board your enemies or descend to a planet and attack them on the ground. Ensure you have a medic bay and spare limbs to patch up your fallen heroes.
+[h2][b]Necessidades e humor da tripulação[/b]. [/h2]
+As necessidades da sua tripulação devem ser atendidas para manter o sua nave em pleno funcionamento. Uma tripulação enfurecida pode rebelar-se, decidir não trabalhar ou desistir completamente. Certifique-se de ter comida e água suficientes para alimentar sua tripulação. Você também deve escolher seu capitão com sabedoria.
 
 
-[h2][b]Extensive mod support[/b]. [/h2]
-All the game's data is stored in JSON files. This means it is extremely easy to change anything currently in the game and even add new ones. In the future we plan to expand on this even further.
+[h2][b]Combate complexo e simulações médicas[/b]. [/h2] 
+Lute contra outras naves espaciais com combate nave a nave. Prepare-se e aborde seus inimigos ou desça a um planeta e ataque-os no chão. Certifique-se de ter uma enfermaria e membros extras para consertar seus heróis caídos.
 
 
-[h2][b]Mod development pedigree[/b]. [/h2]
-The author of SpaceSlog has spent 10 years painstakingly developing a large and popular free modification for Mount&Blade Warband called A World of Ice and Fire. This is the reason for wanting extensive mod support and should hopefully give peace of mind for anyone wanting to purchase SpaceSlog, knowing the author is dedicated and willing to finish a project.
+[h2][b]Amplo suporte a mods[/b]. [/h2]
+Todos os dados do jogo são armazenados em arquivos JSON. Isso significa que é extremamente fácil alterar qualquer coisa no jogo e até mesmo adicionar novos. No futuro, planejamos expandir isso ainda mais.
+
+
+[h2][b]Histórico no desenvolvimento de mods[/b]. [/h2]
+O autor do SpaceSlog passou 10 anos desenvolvendo meticulosamente uma grande e popular modificação gratuita para Mount&Blade Warband chamada A World of Ice and Fire. Esta é a razão para querer suporte extensivo a mod e esperamos que dê tranquilidade a quem deseja comprar o SpaceSlog, sabendo que o autor é dedicado e disposto a terminar um projeto.
 
 
 Short description (Do not translate) (Needs to be between 200-300 characters)
 
-Build your spaceship, manage your crew and explore the cosmos whilst trying to keep your crew alive and your ship fully functioning. This game utilises an events driven director and simulated ship systems to ensure gameplay is kept challenging and every game you play has a different story to tell.
+Construa sua nave espacial, gerencie sua tripulação e explore o cosmos enquanto tenta manter sua tripulação viva e sua nave em pleno funcionamento. Este jogo utiliza um diretor orientado a eventos e sistemas de naves simulados para garantir que a jogabilidade continue desafiadora e que cada jogo que você joga tenha uma história diferente para contar.
 
 
 Why early access? (Do not translate)
 
-SpaceSlog is a complex and ambitious project being developed by one person. It has already been in development for several years and now requires the support and feedback from the community. We aim to avoid creating the game in isolation and instead want to shape it into an experience our fans really want to play. We believe that Early Access is the best way to achieve this goal.
+SpaceSlog é um projeto complexo e ambicioso desenvolvido por uma pessoa. Já está em desenvolvimento há vários anos e agora requer o apoio e feedback da comunidade. Nosso objetivo é evitar criar o jogo de forma isolada e, em vez disso, queremos transformá-lo em uma experiência que nossos fãs realmente queiram jogar. Acreditamos que o Acesso Antecipado é a melhor forma de atingir esse objetivo.
 
 
 How long? (Do not translate)
 
-It's difficult to specify a precise timeline, but we anticipate to be in Early Access until at least February 2027. We have a long list of features and ideas for the game, all of which require time to develop in order to deliver a high quality product.
+É difícil especificar um cronograma preciso, mas prevemos estar em Acesso Antecipado pelo menos até fevereiro de 2027. Temos uma longa lista de recursos e ideias para o jogo, que requerem tempo de desenvolvimento para entregar um produto de alta qualidade. 
 
-However, we strongly recommend to only purchase the game based solely on its current features rather than on planned future updates, to avoid any potential disappointment.
-
+No entanto, recomendamos fortemente que você compre o jogo apenas com base em seus recursos atuais, e não em atualizações futuras planejadas, para evitar qualquer decepção potencial.
 
 
 Changed when finished? (Do not translate)
 
-The full version of the game will feature many more simulated systems and a much richer gameplay experience. However, the course of development may evolve based on feedback from our community. Below are a few things we plan to add to the game but are not guaranteed.
+A versão completa do jogo contará com muito mais sistemas simulados e uma experiência de jogo muito mais rica. No entanto, o curso do desenvolvimento pode evoluir com base no feedback da nossa comunidade. Abaixo estão algumas coisas que planejamos adicionar ao jogo, mas não são garantidas.
 
 [list]
-[*]Random encounters with planets, space monsters and other alien life forms.
-[*]Send away parties to planets and derelict ships to scavenge for supplies.
-[*]Watch relationships grow and fall between different crew members.
-[*]Many types of creatures you can tame and train.
-[*]Heat and atmosphere sim elements.
-[*]Research new technologies and use them to help your crew survive and thrive.
-[*]Tactical combat systems between ships and on foot, including breaches and landing parties.
-[*]Intricate wound and illness system.
-[*]Hydroponics and farming.
-[*]A galaxy map allowing you to plan and trace your journey.
-[*]Different alien races to discover.
+[*]Encontros aleatórios com planetas, monstros espaciais e outras formas de vida alienígenas. 
+[*]Mande grupos para planetas e naves abandonadas em busca de suprimentos. 
+[*]Veja o crescimento e a queda dos relacionamentos entre diferentes membros da tripulação. 
+[*]Muitos tipos de criaturas que você pode domar e treinar. 
+[*]Elementos simulados de calor e atmosfera. 
+[*]Pesquise novas tecnologias e use-as para ajudar sua tripulação a sobreviver e prosperar. 
+[*]Sistemas de combate tático entre naves e a pé, incluindo brechas e equipes de desembarque. 
+[*]Sistema complexo de feridas e doenças. 
+[*]Hidroponia e agricultura. 
+[*]Um mapa da galáxia que permite planejar e traçar sua jornada. 
+[*]Diferentes raças alienígenas para descobrir.
 [/list]
 
-Again, these features are not guaranteed but represent what we would ideally like to implement. Please only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
+Novamente, esses recursos não são garantidos, mas representam o que gostaríamos idealmente de implementar. Por favor, compre o jogo apenas com base no que está no jogo agora e não no que está planejado para o futuro, para evitar decepções.
 
 
 
 Playable? (Do not translate)
 
-The game is fully playable, and we do our best to ensure there are as few bugs as possible. However, it currently represents only a small portion of what we aim to accomplish. As a result, it may lack certain gameplay features and content in its present state. For a detailed overview of the current features, please refer to the 'About this Game' section.
+O jogo é totalmente jogável e fazemos o possível para garantir que haja o mínimo de bugs possível. No entanto, atualmente representa apenas uma pequena parte do que pretendemos realizar. Como resultado, pode faltar certos recursos de jogo e conteúdo em seu estado atual. Para uma visão geral detalhada dos recursos atuais, consulte a seção 'Sobre este jogo'.
 
 
 Price change? (Do not translate)
 
-The final price is yet to be determined, but we intend to raise it once the game exits Early Access.
+O preço final ainda não foi determinado, mas pretendemos aumentá-lo assim que o jogo sair do Acesso Antecipado.
 
 
 Final words. (Do not translate)
 
-We regularly hold polls on our Discord ([url]https://discord.gg/cBNNfht[/url]) channel and actively encourage suggestions and feedback from our community there, as well as on our forums ([url]https://produnogames.com/forums[/url]). We take all feedback very seriously and give it careful consideration. 
+Realizamos regularmente enquetes em nosso canal do Discord ([url]https://discord.gg/cBNNfht[/url]) e incentivamos ativamente sugestões e comentários de nossa comunidade lá, bem como em nossos fóruns ([url]https://produnogames.com/forums[/url]). Levamos todos os comentários muito a sério e os consideramos cuidadosamente. 
 
-We understand that we cannot make the best game possible on our own. The vital input and feedback from our players are essential in helping us refine and guide the game toward the best it can be.
+Entendemos que não podemos fazer o melhor jogo possível sozinhos. A contribuição e o feedback vitais de nossos jogadores são essenciais para nos ajudar a refinar e guiar o jogo para o melhor possível. 
 
-Additionally, we will be sharing development videos over on our YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) channel.
+Além disso, compartilharemos vídeos de desenvolvimento em nosso canal do YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]).
