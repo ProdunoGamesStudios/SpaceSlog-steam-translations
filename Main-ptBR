@@ -1,0 +1,129 @@
+Description (Do not translate)
+
+
+[b]SpaceSlog[/b] é um desafiador simulador de nave espacial de ficção científica que se concentra na construção de naves, interação da tripulação e exploração. Inspirado em jogos como [i]Rimworld[/i], [i]Starship Theory[/i], [i]Dwarf Fortress[/i] e [i]X-COM[/i], bem como mídias icônicas como [i]Firefly[/i], [i]Battlestar [i]Galactica[/i], [i]Stargate Universe[/i] e [i]The Expanse[/i].
+
+Sua nave colonizadora foi destruída. Felizmente, alguns sobreviventes conseguiram escapar numa pequena nave. Agora sozinho, faminto e perdido no espaço, você deve explorar o cosmos e guiá-los para um local seguro.
+
+
+[b]Características Atuais[/b]
+
+[list]
+[*]Construa sua nave da maneira que desejar. 
+[*]Uma galáxia recém-gerada para explorar sempre que você jogar. 
+[*]Conheça outras facções, amigas ou inimigas. 
+[*]Gerencie o humor e as necessidades da sua equipe. 
+[*]Negocie com naves e facções que passam. 
+[*]Simulação de energia elétrica. Coloque cabos, geradores e baterias. 
+[*]Simulação atmosférica. Coloque geradores de gás, purificadores de gás, tanques de ar, dutos e saídas de ar para transportar gás pela nave. 
+[*]Desenvolva sua própria história sempre que jogar. 
+[*]Combata e defenda-se contra criaturas alienígenas. 
+[*]Modelagem profunda de saúde e anatomia. 
+[*]Extenso suporte a mods. 
+[*]E mais…
+[/list]
+
+
+[b]Roteiro de Desenvolvimento[/b]
+[i]Esta é uma lista aproximada de recursos planejados, embora nada seja garantido.[/i]
+
+[list]
+[*]Combate nave a nave, incluindo abordagem na nave. 
+[*]Um mapa infinito de galáxias para explorar.
+[*]Visite planetas com diferentes atmosferas, facções e outras anomalias. 
+[*]Explore naves e estações abandonadas. 
+[*]Pesquisar. 
+[*]Um universo vivo onde as interações entre facções ou as consequências dos jogadores são importantes. 
+[*]Simulação de temperatura. Encontre maneiras de manter sua nave fresca. 
+[*]Vários tipos de artesanato. 
+[*]Animais - animais de estimação e criação. 
+[*]Além de muitas outras melhorias em todos os aspectos.
+[/list]
+
+
+[h2][b]Construa sua nave da maneira que desejar[/b]. [/h2]
+
+Se você deseja construir uma nave pequena, mas ágil, com uma tripulação pequena, ou uma grande nave de guerra com muita tripulação, a escolha é sua. Apenas certifique-se de ter suprimentos suficientes para gerenciar sua tripulação e manter sua nave funcionando. 
+Deve-se considerar cuidadosamente ao colocar portas e seus sistemas de energia em caso de violações ou outros perigos.
+
+
+[h2][b]Explore uma galáxia gerada processualmente[/b]. [/h2] 
+Cada vez que você joga, o sistema de eventos do jogo irá gerar uma galáxia diferente para você explorar. Qualquer dificuldade que você escolher influenciará como esta galáxia ou eventos são gerados.
+
+
+[h2][b]A exploração é a chave para a sobrevivência[/b]. [/h2] 
+Permanecer no mesmo lugar por muito tempo ou ficar à deriva sua tripulação certamente morrerá. Você deve continuar se movendo e encontrar outras naves ou facções para negociar para sobreviver.
+
+
+[h2][b]Necessidades e humor da tripulação[/b]. [/h2]
+As necessidades da sua tripulação devem ser atendidas para manter a sua nave em pleno funcionamento. Uma tripulação enfurecida pode rebelar-se, decidir não trabalhar ou desistir completamente. Certifique-se de ter comida e água suficientes para alimentar sua tripulação. Você também deve escolher seu capitão com sabedoria.
+
+
+[h2][b]Combate complexo e simulações médicas[/b]. [/h2] 
+Lute contra outras naves espaciais com combate nave a nave. Equipe-se e aborde seus inimigos ou desça a um planeta e ataque-os em solo. Certifique-se de ter uma enfermaria e membros sobressalentes para curar seus heróis caídos.
+
+
+[h2][b]Amplo suporte a mods[/b]. [/h2]
+Todos os dados do jogo são armazenados em arquivos JSON. Isso significa que é extremamente fácil alterar qualquer coisa no jogo e até mesmo adicionar novos. No futuro, planejamos expandir isso ainda mais.
+
+
+[h2][b]Experiência no desenvolvimento de mods[/b]. [/h2]
+O autor do SpaceSlog passou 10 anos desenvolvendo meticulosamente uma grande e popular modificação gratuita para Mount&Blade Warband chamada A World of Ice and Fire. Esta é a razão para querer suporte extensivo a mod e esperamos que dê tranquilidade a quem deseja comprar o SpaceSlog, sabendo que o autor é dedicado e disposto a terminar um projeto.
+
+
+Short description (Do not translate) (Needs to be between 200-300 characters)
+
+Construa sua nave espacial, gerencie sua tripulação e explore o cosmos enquanto tenta manter sua tripulação viva e sua nave em pleno funcionamento. Este jogo utiliza um diretor orientado a eventos e sistemas de naves simulados para garantir que a jogabilidade continue desafiadora e que cada jogo que você joga tenha uma história diferente para contar.
+
+
+Why early access? (Do not translate)
+
+SpaceSlog é um projeto complexo e ambicioso desenvolvido por uma pessoa. Já está em desenvolvimento há vários anos e agora requer o apoio e feedback da comunidade. Nosso objetivo é evitar criar o jogo de forma isolada e, em vez disso, queremos transformá-lo em uma experiência que nossos fãs realmente queiram jogar. Acreditamos que o Acesso Antecipado é a melhor forma de atingir esse objetivo.
+
+
+How long? (Do not translate)
+
+É difícil especificar um cronograma preciso, mas prevemos estar em Acesso Antecipado pelo menos até fevereiro de 2027. Temos uma longa lista de recursos e ideias para o jogo, que requerem tempo de desenvolvimento para entregar um produto de alta qualidade. 
+
+No entanto, recomendamos fortemente que você compre o jogo apenas com base em seus recursos atuais, e não em atualizações futuras planejadas, para evitar qualquer decepção potencial.
+
+
+Changed when finished? (Do not translate)
+
+A versão completa do jogo contará com muito mais sistemas simulados e uma experiência de jogo muito mais rica. No entanto, o curso do desenvolvimento pode evoluir com base no feedback da nossa comunidade. Abaixo estão algumas coisas que planejamos adicionar ao jogo, mas não são garantidas.
+
+[list]
+[*]Eventos aleatórios com planetas, monstros espaciais e outras formas de vida alienígenas. 
+[*]Envie expedições para planetas e naves abandonadas em busca de suprimentos. 
+[*]Veja o crescimento e a queda dos relacionamentos entre diferentes membros da tripulação. 
+[*]Muitos tipos de criaturas que você pode domar e treinar. 
+[*]Elementos de simulação de calor e atmosfera. 
+[*]Pesquise novas tecnologias e use-as para ajudar sua tripulação a sobreviver e prosperar. 
+[*]Sistemas de combate tático entre naves e a pé, incluindo brechas e equipes de desembarque. 
+[*]Sistema complexo de feridas e doenças. 
+[*]Hidroponia e agricultura. 
+[*]Um mapa da galáxia que permite planejar e traçar sua jornada. 
+[*]Diferentes raças alienígenas para descobrir.
+[/list]
+
+Novamente, esses recursos não são garantidos, mas representam o que gostaríamos idealmente de implementar. Por favor, compre o jogo apenas com base no que está no jogo agora e não no que está planejado para o futuro, para evitar decepções.
+
+
+
+Playable? (Do not translate)
+
+O jogo é totalmente jogável e fazemos o possível para garantir que haja o mínimo de bugs possíveis. No entanto, atualmente representa apenas uma pequena parte do que pretendemos realizar. Como resultado, podem faltar certos recursos de jogo e conteúdo em seu estado atual. Para uma visão geral detalhada dos recursos atuais, consulte a seção 'Sobre este jogo'.
+
+
+Price change? (Do not translate)
+
+O preço final ainda não foi determinado, mas pretendemos aumentá-lo assim que o jogo sair do Acesso Antecipado.
+
+
+Final words. (Do not translate)
+
+Realizamos regularmente enquetes em nosso canal do Discord ([url]https://discord.gg/cBNNfht[/url]) e incentivamos ativamente sugestões e comentários de nossa comunidade lá, bem como em nossos fóruns ([url]https://produnogames.com/forums[/url]). Levamos todos os comentários muito a sério e os consideramos cuidadosamente. 
+
+Entendemos que não podemos fazer o melhor jogo possível sozinhos. A contribuição e o feedback vitais de nossos jogadores são essenciais para nos ajudar a refinar e guiar o jogo para o melhor possível. 
+
+Além disso, compartilharemos vídeos de desenvolvimento em nosso canal do YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]).
